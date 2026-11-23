@@ -1,0 +1,11 @@
+$kind: http-request
+name: http://localhost:3000/api/clients/1
+description: ""
+url: http://localhost:3000/api/clients/1
+method: PUT
+body:
+  type: json
+  content: "\r
+
+    {\"Nom\":\"Diop\",\"Prenom\":\"Moussa\",\"Telephone\":\"770000001\",\"Email\":\"moussa@gmail.com\",\"Ville\":\"Dakar\"}"
+order: 2000

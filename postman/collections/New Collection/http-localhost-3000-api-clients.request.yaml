@@ -1,0 +1,6 @@
+$kind: http-request
+name: http://localhost:3000/api/clients
+description: ""
+url: http://localhost:3000/api/clients
+method: GET
+order: 1000

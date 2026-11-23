@@ -1,0 +1,9 @@
+$kind: http-request
+name: http://localhost:3000/api/clients/2
+description: ""
+url: http://localhost:3000/api/clients/2
+method: PUT
+body:
+  type: json
+  content: ""
+order: 3000
